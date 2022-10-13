@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Furkan Akal
 - 👀 I’m interested in blockchain architecture, development, and security.
-- 🌱 I’m currently learning and developing subgraphs for indexing the raw blockchain data.
+- 🌱 I’m currently learning and developing subgraphs to index the raw on-chain data.
 - 📫 How to reach me: [Twitter](https://twitter.com/furkanakaldev) - [Instagram](https://instagram.com) - [Personal Website](https://furkanakal.space)
 
 <!---
