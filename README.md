@@ -1,5 +1,5 @@
 - 👋 Hi, it's Furkan!
-- 🌱 I’m a researcher and DevRel who is passionate about cryptography.
+- 🌱 I’m a cryptography researcher with a focus on fully homomorphic encryption (FHE).
 - 📫 How to reach me: [Email](mailto:furkanakaldev@gmail.com) & [Twitter](https://twitter.com/furkanakalcom)
 - Personal Blog: [furkanakal.com](https://furkanakal.com)
 
