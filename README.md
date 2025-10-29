@@ -1,6 +1,6 @@
 - 👋 Hi, it's Furkan!
 - 🌱 I’m a cryptography researcher with a focus on fully homomorphic encryption (FHE).
-- 📫 How to reach me: [Email](mailto:me@furkanakal.com) & [Twitter](https://twitter.com/furkanakalcom)
+- 📫 How to reach me: [Email](mailto:me@furkanakal.com) & [Twitter](https://twitter.com/furkanakal)
 - Personal Blog: [furkanakal.com](https://furkanakal.com)
 
 <!---
