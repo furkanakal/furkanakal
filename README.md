@@ -1,4 +1,4 @@
-- 👋 Hi, it's Furkan! Working as a research engineer at [Project Eleven](htttps://projecteleven.com)
+- 👋 Hi, it's Furkan! Working as a research engineer at [Project Eleven](htttps://projecteleven.com).
 - 🌱 I’m a cryptography researcher and a technical content creator with a focus on post-quantum cryptography and fully homomorphic encryption (FHE).
 - 📫 How to reach me: [Email](mailto:me@furkanakal.com) & [Twitter](https://twitter.com/furkanakal)
 - Personal Blog: [furkanakal.com](https://furkanakal.com)
